@@ -1,0 +1,12 @@
+*{
+  text-align: center;
+}
+p{
+  background-color:cadetblue;
+  padding: 20px;
+  color: white;
+}
+h1{
+  color: white;
+  background-color: cadetblue;
+}
